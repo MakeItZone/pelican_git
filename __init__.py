@@ -8,6 +8,4 @@ __desc__ = 'Easily embed Github files in your Pelican articles.'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2014'
 
-
-echo "got to here at least"
 from .plugin import *
